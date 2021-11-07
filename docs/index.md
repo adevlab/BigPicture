@@ -22,7 +22,7 @@ For this demo reference, we built several consumer and line-of-business applicat
 
 With the following ARM template you can automate the creation of the resources for this website.
 
-[![Deploy to Azure](Documents/Images/deploy-to-azure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft%2FTailwindTraders-Website%2Fmaster%2FDeploy%2Fdeployment.json)
+[![Deploy to Azure](../Documents/Images/deploy-to-azure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft%2FTailwindTraders-Website%2Fmaster%2FDeploy%2Fdeployment.json)
 
 When you deploy this website to Azure you can define the [Backend](https://github.com/Microsoft/TailwindTraders-Backend) you want to use in case you have deploy your own backend. By defaults it is configured the public Backend environment provided by Microsoft.
 
@@ -122,7 +122,7 @@ To install the web in AKS my-aks using production TLS certificates, located in r
 
 To use the customer support chat/call experience click on the chat bubble on the homepage and select the type of interaction.
 
-![Homepage chat bubble](Documents/Images/Docs/homepage-chat-bubble.png)
+![Homepage chat bubble](../Documents/Images/Docs/homepage-chat-bubble.png)
 
 After being redirected to the call/chat page as per your selection enter your name and then click on Done once the chat/join meeting option is enabled click to join the conversation.
 
