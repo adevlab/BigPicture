@@ -1,5 +1,6 @@
 # In this example, any change in this repo 
 # will require approval from @vriesmarcel
+# Added CCommentb by Gaspard
 * @vriesmarcel
 
 # Any change inside the `/Documents` directory
