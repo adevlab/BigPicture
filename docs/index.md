@@ -1,6 +1,6 @@
 # Tailwind Traders Website
 
-![Tailwind Traders Website](Documents/Images/Website.png)
+![Tailwind Traders Website](../Documents/Images/Website.png)
 now with branch protection on main!
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
@@ -126,15 +126,15 @@ To use the customer support chat/call experience click on the chat bubble on the
 
 After being redirected to the call/chat page as per your selection enter your name and then click on Done once the chat/join meeting option is enabled click to join the conversation.
 
-![Enter name](Documents/Images/Docs/meeting-enter-name.png)
+![Enter name](../Documents/Images/Docs/meeting-enter-name.png)
 
-![Join meeting](Documents/Images/Docs/meeting-join.png)
+![Join meeting](../Documents/Images/Docs/meeting-join.png)
 
 At this moment you're in the lobby once the meeting organizer lets you in the chat/call is accessible.
 
-![Meeting](Documents/Images/Docs/meeting-in-call.png)
+![Meeting](../Documents/Images/Docs/meeting-in-call.png)
 
-![Meeting](Documents/Images/Docs/chat.png)
+![Meeting](../Documents/Images/Docs/chat.png)
 
 
 After joining in via chat/call the user is also provided with the option to switch from chat-to-call and vice-versa.
